@@ -1,0 +1,8 @@
+drwxr-xr-x 1 vital 197121    0 янв  8 11:34 develop/
+-rw-r--r-- 2 vital 197121  323 дек 18 16:42 go.mod
+-rw-r--r-- 4 vital 197121 2311 фев 18 16:44 go.sum
+drwxr-xr-x 5 vital 197121    0 ноя 10 17:12 listing/
+-rw-r--r-- 5 vital 197121 3591 мар 11 11:05 main.go
+drwxr-xr-x 7 vital 197121    0 май  8 11:34 pattern/
+-rw-r--r-- 6 vital 197121 1349 апр  8 11:34 README.md
+-rw-r--r-- 11 vital 197121 1349 июл  8 11:34 README.md

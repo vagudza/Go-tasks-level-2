@@ -1,0 +1,20 @@
+vital июл 11:34 develop/
+vital дек 18 16:42 go.mod
+vital фев 18 16:44 go.sum
+vital ноя 10 17:12 listing/
+vital мар 11 11:05 main.go
+vital май 11:34 pattern/
+username
+vital апр 11:34 README.md
+vital дек 16:42 gopher1.go
+vital фев 16:44 gopher2.go
+vital ноя 17:12 listing_1.txt
+vital мар 11:05 mainy.go
+vital май 11:34 patterns/
+vital апр 11:34 README.md
+listing ноя 17:01 newfile.csv
+Listing июл 11:34 README.md
+ViTaL янв 11:34 develop.txt
+LiStinG июл 11:34 README.md
+Vital июл  8 11:34 README.md
+UsErNAME
