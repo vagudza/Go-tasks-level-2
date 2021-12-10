@@ -14,16 +14,19 @@ func main() {
 	//pattern.VisitorPatternStart()
 
 	// 4. Command
-	//pattern.CommandPatterStart()
+	//pattern.CommandPatternStart()
 
 	// 5. Chain of responsibility
 	//pattern.ChainPatternStart()
 
 	// 6. Factory
+	//pattern.FactoryMethodPatternStart()
 
 	// 7. Strategy
+	//pattern.StrategyPatternStart()
 
 	// 8. State
+	//pattern.StatePatternStart()
 
 	// Listing task 1
 	//listing.Task1()
